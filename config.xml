@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.example"
-    version   = "1.0.2">
+    version   = "1.0.0">
 
 <name>Server App</name>
 
@@ -14,7 +14,7 @@ A simple app.
 Aminnazir
 </author>
 
-<icon src="assets/icon.png" />
+
 
 	
 
